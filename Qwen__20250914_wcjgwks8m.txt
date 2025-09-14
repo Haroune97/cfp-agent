@@ -1,5 +1,0 @@
-cfp-agent/
-├── agent_cfp.py          ← Script de scraping
-├── .github/workflows/daily-scraper.yml  ← Automatisation GitHub Actions
-├── cfp_found.csv         ← Fichier de résultats (créé automatiquement)
-└── README.md
